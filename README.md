@@ -1,2 +1,2 @@
 # pylibraries
-learning python libraries from scratch
+machine learning from scratch
